@@ -1,0 +1,73 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif
+
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+h2 {
+    color: whitesmoke;
+}
+
+h3 {
+    color: whitesmoke;
+
+}
+
+p {
+    color: whitesmoke;
+}
+
+.top-container {
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    margin: 50px;
+    padding: 100px;
+
+}
+
+
+.img1 {
+
+    background-image: url("/Users/nuaj/WebstormProjects/Mysite/images/bg3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.h1color {
+    color: black;
+    line-height: 1.8em;
+    font-size: 1.7em;
+    display: inline;
+}
+
+h1 span {
+    padding: 0.2em;
+    box-shadow: 0.2em 0 0 rgba(#fff,0.7), -0.2em 0 0 rgba(#fff,0.7);
+    background-color: #fff;
+    background-color: rgba(#fff,0.7);
+}
+
+
+
+.h3color {
+    color: whitesmoke;
+    line-height: 3.0em;
+    font-size: 1.2em;
+    display: inline;
+}
+
+h3 span {
+    padding: 0.2em;
+    box-shadow: 0.2em 0 0 rgba(#fff, 0.7), -0.2em 0 0 rgba(#fff, 0.7);
+    background-color: #fff;
+    background-color: rgba(#fff, 0.7);
+}
+
