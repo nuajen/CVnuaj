@@ -39,14 +39,26 @@ p {
 
 }
 
+.div_background {
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .top-container {
 
     background-position: center;
     background-repeat: no-repeat;
-    background: rgba(0,0,0,.7);
+    background-image: url("images/background.png");
     margin: 50px;
     padding: 100px;
+
+}
+
+.bground {
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: repeat;
 
 }
 
